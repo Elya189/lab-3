@@ -16,6 +16,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Uvty1ycsNYBftGz7ym5h6oVWqt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -66,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576249147463</updated>
       <workItem from="1576249152178" duration="565000" />
-      <workItem from="1576249885577" duration="92000" />
+      <workItem from="1576249885577" duration="336000" />
     </task>
     <servers />
   </component>
