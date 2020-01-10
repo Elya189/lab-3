@@ -18,3 +18,9 @@ https://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 или вызовите окно ввода комбинацией клавиш Windows+R и введите cmd.
 В открывшейся консоли наберите java -version и нажмите Enter. Если вы видите версию java, а не сообщение об ошибке, все в порядке.
     2. Для запуска программы должна быть JRE (Java Runtime Environment)  не ниже 8 версии, входит в пакет JDK.
+	3. Как запустить: ввод следующих команд в командной строке, содержащей файлы проекта
+		javac ./src/Main.java
+		mkdir out
+		move .\src\*.class .\out
+		cd out
+		java Main
